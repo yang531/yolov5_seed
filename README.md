@@ -1,2 +1,2 @@
 # yolov5_seed
-yolov5_seed
+使用YOLOv5融合ECANet注意力机制在入侵植物种子数据集中的应用
